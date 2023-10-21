@@ -1,3 +1,8 @@
+
+![Capture3](https://github.com/shalinimaurya17/NewzMeow/assets/90104709/95ea8d45-24ac-43d5-9437-1a551aecf273)
+![Capture31](https://github.com/shalinimaurya17/NewzMeow/assets/90104709/642e03ee-21f8-4172-b80f-3c1c2f8a5cdc)
+![Capture32](https://github.com/shalinimaurya17/NewzMeow/assets/90104709/3eebc2dd-ebd8-40f2-9cf9-1ade7046cc69)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
